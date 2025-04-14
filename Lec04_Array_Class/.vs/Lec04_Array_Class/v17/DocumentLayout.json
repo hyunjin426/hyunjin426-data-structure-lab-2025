@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\main_music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\main_music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63B5C59C-109A-4216-9539-770B3ABC7C76}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_music.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\main_music.cpp",
+              "RelativeDocumentMoniker": "Lec04_Array\\main_music.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\main_music.cpp",
+              "RelativeToolTip": "Lec04_Array\\main_music.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T00:50:00.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Music.h",
+              "RelativeDocumentMoniker": "Lec04_Array\\Music.h",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec04_Array_Class\\Lec04_Array\\Music.h",
+              "RelativeToolTip": "Lec04_Array\\Music.h",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:41:56.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

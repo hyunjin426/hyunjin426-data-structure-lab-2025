@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec02_Findmax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE48C813-2C6B-4B89-A053-E662DAC14337}|Lec02_Findmax\\Lec02_Findmax.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec02_Findmax\\Lec02_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE48C813-2C6B-4B89-A053-E662DAC14337}|Lec02_Findmax\\Lec02_Findmax.vcxproj|solutionrelative:Lec02_Findmax\\find_max.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "find_max.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec02_Findmax\\Lec02_Findmax\\find_max.cpp",
+              "RelativeDocumentMoniker": "Lec02_Findmax\\find_max.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\Lec02_Findmax\\Lec02_Findmax\\find_max.cpp*",
+              "RelativeToolTip": "Lec02_Findmax\\find_max.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T00:27:08.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

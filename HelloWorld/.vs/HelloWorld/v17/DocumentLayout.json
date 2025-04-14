@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A81568DD-BBD8-424F-A204-6AF9397F8A8F}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A81568DD-BBD8-424F-A204-6AF9397F8A8F}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\hello_world.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\hello_world.cpp",
+              "ToolTip": "C:\\Users\\\uD64D\uD604\uC9C4\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\hello_world.cpp",
+              "RelativeToolTip": "HelloWorld\\hello_world.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T00:27:46.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
